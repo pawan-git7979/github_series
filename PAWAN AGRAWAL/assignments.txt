@@ -24,3 +24,8 @@ After doing this if u want these changes to be also seen in your github repo you
 E) can we leave a commit message as blank..?
 Ans) Yes, of course we can leave the commit message blank...like this---> git commit -m " ".
 But we shouldn't do this, bcs if the third person look into your repo he won't we able to understand what commit u have done until u have written the perfect  commit message.
+
+
+
+pull request 2- creating diiferent branch(PAWAN-TASK3). 
+
