@@ -1,7 +1,0 @@
-hey, i m pawan agrawal.
-i m currently pursuing BCA 2nd year.
-my tech stack is Web D.
-very passionate to learn and grow.
-
-
-try to making merge conflict of branch_alpha with the master branch.
