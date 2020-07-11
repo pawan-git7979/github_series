@@ -5,5 +5,5 @@ my tech stack is Web D.
 very passionate to learn and grow.
 
 
-pull request 2- by creating different branch from master.
+pull request from delta for creating merge conflict.
 
