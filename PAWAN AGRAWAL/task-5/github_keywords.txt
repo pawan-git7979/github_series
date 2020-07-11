@@ -1,0 +1,66 @@
+
+
+  ** How Github Works **
+
+ Github is a web-based platform used for version control. Git simplifies the process of working
+ with other people and makes it easy to collaborate on projects. Team members can work on files and 
+ easily merge their changes in with the master branch of the project. Git & GitHub skill has slowly
+ made its way from preferred skills to must have skills in multiple job roles.
+
+ ** Step 1: Introduction to GitHub**
+  To be very crisp about it, GitHub is a file or code sharing service to collaborate with different 
+  people. 
+
+ GitHub is a highly used software which is typically used for version control. 
+ It is helpful when more than just one person is working on a project.
+ Say for example, a software developer team wants to build a website and everyone has 
+ to update their codes simultaneously while working on the project. In this case, Github helps
+ them to build a centralized repository where everyone can upload, edit and manage the code files.
+
+** step 2: create the repository **
+** step 3:create branches and perform operations . **
+** step:4 cloning and forking github repository . **
+
+
+** forking and cloning **
+   - Cloning: Before I actually talk about cloning a GitHub repository, first let us understand 
+  why do we need to clone a repository. The answer is simple! Suppose you want to use some code
+  which is present in a public repository, you can directly copy the contents by cloning or 
+  downloading. Refer to the below screenshot for a better understanding.
+
+ - Forking: First, let us talk about why do we need forking. Suppose, you need some code 
+  which is present in a public repository, under your repository and GitHub account. 
+   For this, we need to fork a repository.
+
+  Before we get started with forking, there are some important points which you should
+    always keep in mind.
+
+   Changes done to the original repository will be reflected back to the forked repository.
+   If you make a change in forked repository, it will not b reflected to the original 
+   repository until and unless you have made a pull request.
+
+
+**  Pull Command **
+Pull command is the most important command in GitHub. It tell the changes done in the file 
+and request other contributors to view it as well as merge it with the master branch. 
+Once the commit is done, anyone can pull the file and can start a discussion over it. 
+Once its all done, you can merge the file. Pull command compares the changes which are done 
+in the file and if there are any conflicts, you can manually resolve it. Now let us see
+ different steps involved to pull request in GitHub.
+
+-Click the ‘Pull requests’ tab.
+-Click ‘New pull request’.
+-Once you click on pull request, select the branch and click ‘readme- changes’ file to view
+ changes between the two files present in our repository.
+-Click “Create pull request”.
+-Enter any title, description to your changes and click on “Create pull request”.
+ Refer to the below screenshots.
+
+  ** merge command**
+  Here comes the last command which merge the changes into the main master branch.  
+  We saw the changes in pink and green color, now let’s merge the “readme- changes” file with
+  the master branch/ read-me. Go through the below steps to merge pull request.
+
+  Click on “Merge pull request” to merge the changes into master branch.
+Click “Confirm merge”.
+You can delete the branch once all the changes have been incorporated and if there are no conflicts. Refer to the below screenshots.
